@@ -1,0 +1,24 @@
+.section {
+  background-color: bisque;
+  width: 50%;
+  height: 90%;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.text {
+  text-align: center;
+  font-family: sans-serif;
+}
+.input {
+  margin: auto;
+
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
